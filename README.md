@@ -2,10 +2,11 @@
 
 List of Publications in Graph Contrastive Learning
 
-_Last edit: 2021-01-07_
+_Last edit: 2021-01-12_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Contrastive Learning for Recommender System                                                            | arXiv 2021   | [paper](https://arxiv.org/abs/2101.01317) |
 | Bipartite Graph Embedding via Mutual Information Maximization                                          | WSDM 2021    | [paper](https://arxiv.org/abs/2012.05442) [code](https://github.com/caojiangxia/BiGI)                                                      |
 | Graph Contrastive Learning with Augmentations                                                          | NeurIPS 2020 | [paper](https://papers.nips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html) [code](https://github.com/Shen-Lab/GraphCL) |
 | Graph Contrastive Learning with Adaptive Augmentation                                                  | arXiv 2020   | [paper](https://arxiv.org/abs/2010.14945)                                                                                                  |
