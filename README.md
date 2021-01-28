@@ -2,11 +2,12 @@
 
 List of Publications in Graph Contrastive Learning
 
-_Last edit: 2021-01-26_
+_Last edit: 2021-01-28_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Self-supervised Learning: Generative or Contrastive                                                    | arXiv 2020   | [paper](https://arxiv.org/abs/2006.08218) |
+| Improving Graph Representation Learning by Contrastive Regularization                                  | arXiv 2021   | [paper](https://arxiv.org/abs/2101.11525v1) |
+| Self-supervised Learning: Generative or Contrastive                                                    | arXiv 2021   | [paper](https://arxiv.org/abs/2006.08218) |
 | Relation Representation Learning via Signed Graph Mutual Information Maximization for Trust Prediction | Symmetry 2021| [paper](https://www.mdpi.com/2073-8994/13/1/115/htm) |
 | Contrastive Learning for Recommender System                                                            | arXiv 2021   | [paper](https://arxiv.org/abs/2101.01317) |
 | Bipartite Graph Embedding via Mutual Information Maximization                                          | WSDM 2021    | [paper](https://arxiv.org/abs/2012.05442) [code](https://github.com/caojiangxia/BiGI)                                                      |
