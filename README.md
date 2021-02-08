@@ -6,6 +6,7 @@ _Last edit: 2021-02-08_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction              | AAAI 2021    | [paper](https://arxiv.org/abs/2010.11711) |
 | Contrastive and Generative Graph Convolutional Networks for Graph-Based Semi-Supervised Learning       | AAAI 2021    | [paper](https://arxiv.org/abs/2009.07111)  |
 | Contrastive Self-Supervised Learning for Graph Classification                                          | AAAI 2021    | [paper](https://arxiv.org/abs/2009.05923) |
 | Improving Graph Representation Learning by Contrastive Regularization                                  | arXiv 2021   | [paper](https://arxiv.org/abs/2101.11525v1) |
