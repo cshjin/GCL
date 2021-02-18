@@ -2,10 +2,11 @@
 
 List of Publications in Graph Contrastive Learning
 
-_Last edit: 2021-02-08_
+_Last edit: 2021-02-17_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Label Contrastive Coding based Graph Neural Network for Graph Classification                           | DASFAA 2021  | [paper](https://arxiv.org/abs/2101.05486) |
 | Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction              | AAAI 2021    | [paper](https://arxiv.org/abs/2010.11711) |
 | Contrastive and Generative Graph Convolutional Networks for Graph-Based Semi-Supervised Learning       | AAAI 2021    | [paper](https://arxiv.org/abs/2009.07111)  |
 | Contrastive Self-Supervised Learning for Graph Classification                                          | AAAI 2021    | [paper](https://arxiv.org/abs/2009.05923) |
