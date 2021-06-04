@@ -6,6 +6,7 @@ _Last edit: 2021-02-27_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Graph Contrastive Learning Automated                                                                   | ICML 2021    |  |
 | Towards Robust Graph Contrastive Learning                                                              | arXiv 2021   | [paper](https://arxiv.org/abs/2102.13085) |
 | Label Contrastive Coding based Graph Neural Network for Graph Classification                           | DASFAA 2021  | [paper](https://arxiv.org/abs/2101.05486) |
 | Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction              | AAAI 2021    | [paper](https://arxiv.org/abs/2010.11711) |
