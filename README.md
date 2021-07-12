@@ -6,6 +6,9 @@ _Last edit: 2021-02-27_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Learning Graph Embeddings for Compositional Zero-Shot Learning                                         | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) |
+| Learning Graphs for Knowledge Transfer With Limited Labels                                             | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ghosh_Learning_Graphs_for_Knowledge_Transfer_With_Limited_Labels_CVPR_2021_paper.pdf) |
+| SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network                            | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.pdf)|
 | Graph Contrastive Learning Automated                                                                   | ICML 2021    |  |
 | Towards Robust Graph Contrastive Learning                                                              | arXiv 2021   | [paper](https://arxiv.org/abs/2102.13085) |
 | Label Contrastive Coding based Graph Neural Network for Graph Classification                           | DASFAA 2021  | [paper](https://arxiv.org/abs/2101.05486) |
