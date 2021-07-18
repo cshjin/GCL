@@ -2,7 +2,7 @@
 
 List of Publications in Graph Contrastive Learning
 
-_Last edit: 2021-07-15_
+_Last edit: 2021-07-17_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -10,7 +10,7 @@ _Last edit: 2021-07-15_
 | Learning Graph Embeddings for Compositional Zero-Shot Learning                                         | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) |
 | Learning Graphs for Knowledge Transfer With Limited Labels                                             | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ghosh_Learning_Graphs_for_Knowledge_Transfer_With_Limited_Labels_CVPR_2021_paper.pdf) |
 | SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network                            | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.pdf)|
-| Graph Contrastive Learning Automated                                                                   | ICML 2021    |  |
+| Graph Contrastive Learning Automated                                                                   | ICML 2021    | [paper](http://proceedings.mlr.press/v139/you21a.html) [code](https://github.com/Shen-Lab/GraphCL_Automated) |
 | Towards Robust Graph Contrastive Learning                                                              | arXiv 2021   | [paper](https://arxiv.org/abs/2102.13085) |
 | Label Contrastive Coding based Graph Neural Network for Graph Classification                           | DASFAA 2021  | [paper](https://arxiv.org/abs/2101.05486) |
 | Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction              | AAAI 2021    | [paper](https://arxiv.org/abs/2010.11711) |
