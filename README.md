@@ -2,10 +2,12 @@
 
 List of Publications in Graph Contrastive Learning
 
-_Last edit: 2021-07-17_
+_Last edit: 2021-08-02_
 
 | Title                                                                                                  | Publisher    | Resource                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning                        | KDD 2021     | [paper](https://arxiv.org/abs/2105.09111) [code](https://github.com/liun-online/HeCo) |
+| MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge                       | KDD 2021     | [paper](https://arxiv.org/abs/2106.04509) | 
 | An Empirical Study of Graph Contrastive Learning                                                       | NeurIPS 2021 Benchmark | [paper](https://openreview.net/pdf?id=fYxEnpY-__G) [code](https://github.com/GraphCL/PyGCL) |
 | Learning Graph Embeddings for Compositional Zero-Shot Learning                                         | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) |
 | Learning Graphs for Knowledge Transfer With Limited Labels                                             | CVPR 2021    | [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ghosh_Learning_Graphs_for_Knowledge_Transfer_With_Limited_Labels_CVPR_2021_paper.pdf) |
